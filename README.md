@@ -5,7 +5,7 @@ COMMAND LINES FOR RUNNING THE SCRIPT
 
 make sure to turn off your antivirus when running this script 
 
-cd bmxmrig
+cd monero
 
 chmod u+x ./xmrig #
 
